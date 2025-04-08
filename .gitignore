@@ -1,0 +1,9 @@
+.vs/
+*.vcxproj.*
+*.sln
+*.exe
+*.dll
+*.obj
+*.pdb
+*.log
+build/

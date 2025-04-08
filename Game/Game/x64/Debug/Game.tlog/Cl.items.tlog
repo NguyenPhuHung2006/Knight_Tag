@@ -1,0 +1,14 @@
+C:\GameProject_SDL2\Game\ColliderComponent.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\ColliderComponent.obj
+C:\GameProject_SDL2\Game\Entity.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\Entity.obj
+C:\GameProject_SDL2\Game\GameConstant.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\GameConstant.obj
+C:\GameProject_SDL2\Game\UIManager.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\UIManager.obj
+C:\GameProject_SDL2\Game\TextManager.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\TextManager.obj
+C:\GameProject_SDL2\Game\Game.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\Game.obj
+C:\GameProject_SDL2\Game\KeyboardComponent.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\KeyboardComponent.obj
+C:\GameProject_SDL2\Game\main.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\main.obj
+C:\GameProject_SDL2\Game\Map.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\Map.obj
+C:\GameProject_SDL2\Game\Player.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\Player.obj
+C:\GameProject_SDL2\Game\Skill.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\Skill.obj
+C:\GameProject_SDL2\Game\SpriteComponent.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\SpriteComponent.obj
+C:\GameProject_SDL2\Game\TextureManager.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\TextureManager.obj
+C:\GameProject_SDL2\Game\TransformComponent.cpp;C:\GameProject_SDL2\Game\Game\x64\Debug\TransformComponent.obj
