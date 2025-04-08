@@ -1,0 +1,41 @@
+Thông tin để thầy/cô theo dõi code tốt hơn
+
+Thứ tự file mà thầy/cô nên theo để dễ theo dõi hơn
+1. main
+2. Game
+3. GameConstants
+4. TextureManager
+5. TextManager
+6. UIManager
+7. Map
+8. Player
+9. TransformComponent
+10. SpriteComponent
+11. KeyboardController
+12. Skill
+13. ColliderComponent
+14. Entity
+
+Những phần có thuật toán trong code (đã được ghi trong file main)
+1. checkWall() trong ColliderComponent.cpp, dòng 44
+2. hasLineOnSight() trong Entity.cpp, dòng 40
+3. setPathToTarget() trong Entity.cpp, dòng 222
+4. loadMap() trong Map.cpp, dòng 53
+5. draw() trong SpriteComponent.cpp, dòng 81
+6. update() trong TransformComponent.cpp, dòng 27
+
+Thông tin cơ bản về từng file
+1. main: điểm bắt đầu của chương trình
+2. Game: định nghĩa những yếu tố của game
+3. GameConstants: định nghĩa từng hằng số trong game, được dùng để dễ theo dõi và có thể được sử dụng trong nhiều file khác nhau
+4. TextureManager: quản lý và vẽ mọi texture trong game
+5. TextManager: định nghĩa text trong game
+6. UIManager: quản lý giao diện 
+7. Map: định nghĩa bản đồ
+8. Player: định nghĩa người chơi
+9. TransformComponent: xử lý việc di chuyển của người chơi
+10. SpriteComponent: xử lý việc vẽ người chơi và animation
+11. KeyboardController: xử lý những tác vụ trên bàn phím
+12. Skill: xử lý những kĩ năng và chiêu thức
+13. ColliderComponent: xử lý việc va chạm của người chơi (với những vật như tường, rương, giường)
+14. Entity: định nghĩa 2 con bot trong game (phần này chứa nhiều thuật toán nâng cao)
