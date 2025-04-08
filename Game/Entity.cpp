@@ -326,7 +326,8 @@ void Entity::checkOpponent()
 			isMovingToOrigin = true;
 			lastSeenPoint = {};
 
-			setPathToTarget(originalEntityPoint, pathToOrigin);
+			if(pathToOrigin.empty())
+				setPathToTarget(originalEntityPoint, pathToOrigin);
 		};
 
 		if (!canSee && !isMovingToLastSeenPoint && !isMovingToOrigin && inScope && !isIdle && canFindOpponent)
